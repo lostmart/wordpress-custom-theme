@@ -1,0 +1,27 @@
+/**********************
+
+Theme Name: Mart Custom
+Theme URL: google.com
+Author: Martin P
+Author URI: google.com
+Description: Nice and roomy
+Version: 1.0.0
+Text Domain: martin
+Lincese: free
+Tags: amor, ternura, deliciosura
+
+**********************/
+
+.bd-placeholder-img {
+	font-size: 1.125rem;
+	text-anchor: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	user-select: none;
+}
+
+@media (min-width: 768px) {
+	.bd-placeholder-img-lg {
+		font-size: 3.5rem;
+	}
+}
